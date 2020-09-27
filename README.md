@@ -3,3 +3,7 @@ In this tutorial, I am going to share with you how you can use machine learning 
 
 To download the dataset:
 https://www.kaggle.com/alxmamaev/flowers-recognition#
+
+Youtube video:
+https://youtu.be/j9iEd-SBmoc
+
